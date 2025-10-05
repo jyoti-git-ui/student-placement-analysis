@@ -1,4 +1,8 @@
 STUDENT PLACEMENT ANALYSIS PROJECT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 PROJECT TITLE: 
 Student Placement Prediction and Clustering using Machine Learning
